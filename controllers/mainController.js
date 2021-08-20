@@ -2,8 +2,8 @@ let platos = [
 
     {
         id: "1",
-        nombre: "Milanesa a la napolitana",
-        detalle: " Milanesa con salsa de tomate y muzzarella",
+        nombre: "Carpaccio de Salmon",
+        detalle: " Carpaccio de salmon ahumado",
        precio: "U$S 27.50"
     },
 
